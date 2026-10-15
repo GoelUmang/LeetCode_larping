@@ -13,7 +13,7 @@ class Solution {
 
         //simulation
         //0 for no moves, 1 for A, -1 for B. 
-        int[][]grid = new int[n][n];
+        int[][]grid = new int[3][3];
         for(int i = 0; i < n; i++){
             int row = moves[i][0];
             int col = moves[i][1];

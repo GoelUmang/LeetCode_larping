@@ -45,5 +45,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->

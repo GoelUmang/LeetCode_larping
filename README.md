@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
+| [0860-lemonade-change](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -62,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0860-lemonade-change](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0054-spiral-matrix](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0860-lemonade-change](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
@@ -79,4 +80,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->

@@ -9,10 +9,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GoelUmang/LeetCode_larping/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GoelUmang/LeetCode_larping/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## String
 | Problem Name | Difficulty |

@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0054-spiral-matrix](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
+| [0198-house-robber](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0860-lemonade-change](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -111,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0198-house-robber](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 <!---LeetCode Topics End-->

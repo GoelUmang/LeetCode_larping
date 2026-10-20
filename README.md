@@ -10,6 +10,7 @@ Collection of LeetCode questions solved
 | [0054-spiral-matrix](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0198-house-robber](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0860-lemonade-change](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
@@ -18,6 +19,7 @@ Collection of LeetCode questions solved
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GoelUmang/LeetCode_larping/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -118,4 +120,8 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 <!---LeetCode Topics End-->

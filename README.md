@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Easy |

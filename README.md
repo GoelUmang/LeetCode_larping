@@ -38,6 +38,7 @@ Collection of LeetCode questions solved
 | [0459-repeated-substring-pattern](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3561-resulting-string-after-adjacent-removals/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions solved
 | [0657-robot-return-to-origin](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1603-design-parking-system](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1603-design-parking-system/) | Easy |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3561-resulting-string-after-adjacent-removals/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,4 +171,8 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3561-resulting-string-after-adjacent-removals/) | Medium |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ Collection of LeetCode questions solved
 | [0004-median-of-two-sorted-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0054-spiral-matrix](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0198-house-robber](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0531-lonely-pixel-i](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0531-lonely-pixel-i/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
 | [0860-lemonade-change](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
+| [0531-lonely-pixel-i](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0531-lonely-pixel-i/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
@@ -73,6 +75,7 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
+| [0531-lonely-pixel-i](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0531-lonely-pixel-i/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 ## Math
 | Problem Name | Difficulty |

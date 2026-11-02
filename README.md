@@ -10,6 +10,7 @@ Collection of LeetCode questions solved
 | [0054-spiral-matrix](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0198-house-robber](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0531-lonely-pixel-i](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0531-lonely-pixel-i/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions solved
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
@@ -84,6 +86,7 @@ Collection of LeetCode questions solved
 | ------- | ------- |
 | [0050-powx-n](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0171-excel-sheet-column-number/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |

@@ -25,6 +25,7 @@ Collection of LeetCode questions solved
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ Collection of LeetCode questions solved
 | [1137-n-th-tribonacci-number](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

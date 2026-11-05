@@ -21,6 +21,7 @@ Collection of LeetCode questions solved
 | [0976-largest-perimeter-triangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GoelUmang/LeetCode_larping/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions solved
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GoelUmang/LeetCode_larping/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3111-minimum-rectangles-to-cover-points/) | Medium |
@@ -127,6 +129,7 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +166,7 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

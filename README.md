@@ -11,6 +11,7 @@ Collection of LeetCode questions solved
 | [0130-surrounded-regions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0198-house-robber](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0463-island-perimeter](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0480-sliding-window-median](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0480-sliding-window-median/) | Hard |
 | [0531-lonely-pixel-i](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0531-lonely-pixel-i/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions solved
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
+| [0463-island-perimeter](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0531-lonely-pixel-i](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0531-lonely-pixel-i/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 ## Math
@@ -196,10 +198,12 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
+| [0463-island-perimeter](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
+| [0463-island-perimeter](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |

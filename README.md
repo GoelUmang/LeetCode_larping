@@ -95,6 +95,7 @@ Collection of LeetCode questions solved
 | ------- | ------- |
 | [0050-powx-n](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0171-excel-sheet-column-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
@@ -129,6 +130,7 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0367-valid-perfect-square](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |

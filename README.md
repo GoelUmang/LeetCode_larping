@@ -26,6 +26,7 @@ Collection of LeetCode questions solved
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GoelUmang/LeetCode_larping/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1882-process-tasks-using-servers/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3111-minimum-rectangles-to-cover-points/) | Medium |
@@ -196,6 +197,7 @@ Collection of LeetCode questions solved
 | ------- | ------- |
 | [0480-sliding-window-median](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0480-sliding-window-median/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1882-process-tasks-using-servers/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -20,6 +20,7 @@ Collection of LeetCode questions solved
 | [0922-sort-array-by-parity-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions solved
 | [0130-surrounded-regions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0463-island-perimeter](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0531-lonely-pixel-i](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0531-lonely-pixel-i/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -182,6 +184,7 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1603-design-parking-system](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1603-design-parking-system/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 ## Memoization
@@ -211,15 +214,18 @@ Collection of LeetCode questions solved
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0463-island-perimeter](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0463-island-perimeter](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |

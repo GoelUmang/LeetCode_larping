@@ -14,6 +14,7 @@ Collection of LeetCode questions solved
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0480-sliding-window-median](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0480-sliding-window-median/) | Hard |
+| [0487-max-consecutive-ones-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0487-max-consecutive-ones-ii/) | Medium |
 | [0531-lonely-pixel-i](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0531-lonely-pixel-i/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
@@ -161,6 +162,7 @@ Collection of LeetCode questions solved
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0480-sliding-window-median](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0480-sliding-window-median/) | Hard |
+| [0487-max-consecutive-ones-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0487-max-consecutive-ones-ii/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -178,6 +180,7 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0487-max-consecutive-ones-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0487-max-consecutive-ones-ii/) | Medium |
 | [0740-delete-and-earn](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [3693-climbing-stairs-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3693-climbing-stairs-ii/) | Medium |

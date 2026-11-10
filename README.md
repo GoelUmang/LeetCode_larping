@@ -8,6 +8,7 @@ Collection of LeetCode questions solved
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0054-spiral-matrix](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0130-surrounded-regions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0198-house-robber](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions solved
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
@@ -133,6 +135,7 @@ Collection of LeetCode questions solved
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
 ## Polygons
 | Problem Name | Difficulty |
@@ -181,6 +184,7 @@ Collection of LeetCode questions solved
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Design
@@ -243,4 +247,8 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->

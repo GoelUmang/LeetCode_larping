@@ -34,6 +34,7 @@ Collection of LeetCode questions solved
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3111-minimum-rectangles-to-cover-points/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -176,6 +177,7 @@ Collection of LeetCode questions solved
 | [0198-house-robber](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0740-delete-and-earn](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
+| [3693-climbing-stairs-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3693-climbing-stairs-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -58,6 +58,7 @@ Collection of LeetCode questions solved
 | [0171-excel-sheet-column-number](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
+| [0520-detect-capital](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3561-resulting-string-after-adjacent-removals/) | Medium |

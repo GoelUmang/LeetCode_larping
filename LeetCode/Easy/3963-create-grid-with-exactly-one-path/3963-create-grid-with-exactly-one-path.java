@@ -5,10 +5,7 @@ class Solution {
         for(int row = 0; row < m ; row++){
             StringBuilder sb = new StringBuilder();
             for(int col = 0 ; col < n; col++){
-                if(row == 0){
-                    sb.append(".");
-                }
-                else if(col < n - 1){
+                if(row != 0 && col < n - 1){
                     sb.append("#");
                 }else sb.append(".");
             }

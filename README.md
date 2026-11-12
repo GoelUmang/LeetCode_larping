@@ -21,6 +21,7 @@ Collection of LeetCode questions solved
 | [0740-delete-and-earn](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
 | [0860-lemonade-change](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode questions solved
 | [0531-lonely-pixel-i](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0531-lonely-pixel-i/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
@@ -259,4 +261,8 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
 <!---LeetCode Topics End-->

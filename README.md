@@ -35,6 +35,7 @@ Collection of LeetCode questions solved
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3111-minimum-rectangles-to-cover-points/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3693-climbing-stairs-ii/) | Medium |

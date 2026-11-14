@@ -38,6 +38,7 @@ Collection of LeetCode questions solved
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3111-minimum-rectangles-to-cover-points/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -172,6 +173,7 @@ Collection of LeetCode questions solved
 | [0480-sliding-window-median](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0480-sliding-window-median/) | Hard |
 | [0487-max-consecutive-ones-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0487-max-consecutive-ones-ii/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,4 +276,8 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->

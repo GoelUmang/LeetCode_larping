@@ -241,6 +241,7 @@ Collection of LeetCode questions solved
 | [0130-surrounded-regions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0463-island-perimeter](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
+| [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,4 +281,20 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 <!---LeetCode Topics End-->

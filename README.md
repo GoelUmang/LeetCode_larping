@@ -29,6 +29,7 @@ Collection of LeetCode questions solved
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GoelUmang/LeetCode_larping/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1748-sum-of-unique-elements](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions solved
 | [1137-n-th-tribonacci-number](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
@@ -193,6 +195,7 @@ Collection of LeetCode questions solved
 | [0487-max-consecutive-ones-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0487-max-consecutive-ones-ii/) | Medium |
 | [0740-delete-and-earn](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3693-climbing-stairs-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -280,6 +283,7 @@ Collection of LeetCode questions solved
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 ## Tree
 | Problem Name | Difficulty |

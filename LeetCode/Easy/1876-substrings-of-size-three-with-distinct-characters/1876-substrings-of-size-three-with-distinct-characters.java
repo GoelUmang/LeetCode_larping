@@ -4,7 +4,7 @@ class Solution {
        // size ?
        // can be it non smol letters
 
-        Set<Character> set = new HashSet<>();
+        int[] freq = new int[26];
 
         int ans = 0;
         int len = s.length();
@@ -15,12 +15,12 @@ class Solution {
             char c = s.charAt(right);
 
             //remove if invalid
-            while(right - left + 1 > 3 || set.contains(c)){
-                set.remove(s.charAt(left));
+            while(right - left + 1 > 3 || freq[c-'a'] > 0){
+                freq[s.charAt(left)-'a']--;
                 left++;
                 
             }
-            set.add(c);
+            freq[c-'a']++;
 
             if(right - left + 1 == 3)ans++;
 

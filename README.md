@@ -68,6 +68,7 @@ Collection of LeetCode questions solved
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3561-resulting-string-after-adjacent-removals/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -182,6 +183,7 @@ Collection of LeetCode questions solved
 | [0480-sliding-window-median](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0480-sliding-window-median/) | Hard |
 | [0487-max-consecutive-ones-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0487-max-consecutive-ones-ii/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 ## Rolling Hash

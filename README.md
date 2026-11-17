@@ -43,6 +43,7 @@ Collection of LeetCode questions solved
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/4034-minimum-bishop-moves-to-reach-target/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@ Collection of LeetCode questions solved
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/4034-minimum-bishop-moves-to-reach-target/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

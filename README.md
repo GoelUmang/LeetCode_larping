@@ -72,6 +72,7 @@ Collection of LeetCode questions solved
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3561-resulting-string-after-adjacent-removals/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |

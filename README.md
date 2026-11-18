@@ -69,6 +69,7 @@ Collection of LeetCode questions solved
 | [0657-robot-return-to-origin](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3561-resulting-string-after-adjacent-removals/) | Medium |
@@ -173,6 +174,7 @@ Collection of LeetCode questions solved
 | [0004-median-of-two-sorted-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0367-valid-perfect-square](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +193,7 @@ Collection of LeetCode questions solved
 | [0487-max-consecutive-ones-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0487-max-consecutive-ones-ii/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
@@ -304,6 +307,7 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 ## Tree
 | Problem Name | Difficulty |

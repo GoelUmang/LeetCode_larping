@@ -35,6 +35,7 @@ Collection of LeetCode questions solved
 | [1748-sum-of-unique-elements](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1882-process-tasks-using-servers](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1882-process-tasks-using-servers/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions solved
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GoelUmang/LeetCode_larping/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3111-minimum-rectangles-to-cover-points/) | Medium |
 ## String
@@ -157,6 +159,7 @@ Collection of LeetCode questions solved
 | ------- | ------- |
 | [0860-lemonade-change](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3111-minimum-rectangles-to-cover-points/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |

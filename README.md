@@ -24,6 +24,7 @@ Collection of LeetCode questions solved
 | [0922-sort-array-by-parity-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0976-largest-perimeter-triangle/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1232-check-if-it-is-a-straight-line](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions solved
 | [0740-delete-and-earn](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0740-delete-and-earn/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -196,6 +198,7 @@ Collection of LeetCode questions solved
 | [0480-sliding-window-median](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0480-sliding-window-median/) | Hard |
 | [0487-max-consecutive-ones-ii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0487-max-consecutive-ones-ii/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -237,6 +240,7 @@ Collection of LeetCode questions solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1267-count-servers-that-communicate](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1603-design-parking-system](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1603-design-parking-system/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |

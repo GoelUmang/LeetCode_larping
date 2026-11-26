@@ -100,6 +100,7 @@ Collection of LeetCode questions solved
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2739-total-distance-traveled](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/2739-total-distance-traveled/) | Easy |
+| [3360-stone-removal-game](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3360-stone-removal-game/) | Easy |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3561-resulting-string-after-adjacent-removals/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -145,6 +146,7 @@ Collection of LeetCode questions solved
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2739-total-distance-traveled](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/2739-total-distance-traveled/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3360-stone-removal-game](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3360-stone-removal-game/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/GoelUmang/LeetCode_larping/tree/main/LeetCode/Medium/4034-minimum-bishop-moves-to-reach-target/) | Medium |
